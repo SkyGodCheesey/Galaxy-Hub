@@ -3,7 +3,7 @@
 local Library = {
 	Theme = {
 		Accent = Color3.fromRGB(0, 255, 0),
-		TopbarColor = Color3.fromRGB(255, 255, 255),
+		TopbarColor = Color3.fromRGB(20, 20, 20),
 		SidebarColor = Color3.fromRGB(15, 15, 15),
 		BackgroundColor = Color3.fromRGB(10, 10, 10),
 		SectionColor = Color3.fromRGB(20, 20, 20),
