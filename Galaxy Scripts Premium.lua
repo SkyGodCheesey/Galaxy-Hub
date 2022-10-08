@@ -54,6 +54,10 @@
         setclipboard("https://www.youtube.com/channel/UCesN1dL5oJEOQJBm1ww1gmw")
     end)
 
+    local Button = Section:AddButton("Vynixius Library- Click to copy link", function()
+        setclipboard("https://github.com/RegularVynixu/UI-Libraries/blob/main/Vynixius/Example.lua")
+    end)
+
 --Main Tab
     local Tab = Window:AddTab("Main")
 
