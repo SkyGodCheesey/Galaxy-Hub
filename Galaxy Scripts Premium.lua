@@ -1,6 +1,6 @@
 --Galaxy Scripts Premium Gui
 
-    local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/SkyGodCheesey/Galaxy-Scripts-Premium/main/Vynixius%20Modded%20Library"))()
+    local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/SkyGodCheesey/Galaxy-Scripts-Premium/main/Galaxy%20Library"))()
     local Window = Library:AddWindow({
         title = {"Galaxy Scripts", "Premium"},
         theme = {
