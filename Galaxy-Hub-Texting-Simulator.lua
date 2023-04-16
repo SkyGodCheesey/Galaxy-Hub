@@ -84,7 +84,7 @@
 
     function autoSell()
         while _G.autoSell == true do
-            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-75.3837585, 13.5104322, 1042.20142, -0.999995351, -5.51587398e-08, -0.00304621784, -5.52037029e-08, 1, 1.46758197e-08, 0.00304621784, 1.48439145e-08, -0.999995351)
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-75.3837585, 13.5104322, 1042.20142)
             wait(1)
         end
     end
@@ -474,7 +474,7 @@
     local Section = Tab:AddSection("Imagine actually playing the game lmao")
 
     local Button = Section:AddButton("Sell Texts", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-75.3837585, 13.5104322, 1042.20142, -0.999995351, -5.51587398e-08, -0.00304621784, -5.52037029e-08, 1, 1.46758197e-08, 0.00304621784, 1.48439145e-08, -0.999995351)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-75.3837585, 13.5104322, 1042.20142)
         game:GetService("Workspace").Doors:Destroy()
     end)
 
