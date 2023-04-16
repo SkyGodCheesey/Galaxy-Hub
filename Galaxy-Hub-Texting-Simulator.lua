@@ -519,89 +519,144 @@
     local Section = Tab:AddSection("Game Pass Areas")
 
     local Button = Section:AddButton("VIP Area", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-118.209549, 102.685989, -2393.45776, 0.86108315, -9.13976717e-09, 0.508464158, 1.39419329e-08, 1, -5.63539615e-09, -0.508464158, 1.1941518e-08, 0.86108315)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-118.209549, 102.685989, -2393.45776)
     end)
 
     local Button = Section:AddButton("Diamond Haven Area", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-297.759064, -119.550331, -1976.42725, 0.836511135, 9.4664415e-08, 0.54794991, -6.47623253e-08, 1, -7.38936237e-08, -0.54794991, 2.63263296e-08, 0.836511135)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-297.759064, -119.550331, -1976.42725)
     end)
 
     local Button = Section:AddButton("Hat Area", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-295.747375, -119.551704, -2183.08374, 0.862091124, 9.64395568e-08, 0.506753266, -6.90875979e-08, 1, -7.27765368e-08, -0.506753266, 2.77296426e-08, 0.862091124)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-295.747375, -119.551704, -2183.08374)
     end)
 
     local Section = Tab:AddSection("Auto Complete Obbies")
 
     local Button = Section:AddButton("Auto Finish All Obbies", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-7483.5249, -179.140289, 661.924377, 0.400490314, 6.38999467e-08, 0.916301012, -1.18897852e-07, 1, -1.77698265e-08, -0.916301012, -1.01829578e-07, 0.400490314)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-7483.5249, -179.140289, 661.924377)
         wait(0.5)
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2227.12183, -327.681061, 629.548889, 0.6642524, -7.21874613e-08, -0.747508347, -9.74397807e-09, 1, -1.05229482e-07, 0.747508347, 7.71826407e-08, 0.6642524)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2227.12183, -327.681061, 629.548889)
         wait(0.5)
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2073.04858, -305.592682, 641.427368, 0.748029649, -3.59982799e-08, -0.663665354, 3.16613402e-08, 1, -1.85555251e-08, 0.663665354, -7.13245152e-09, 0.748029649)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2073.04858, -305.592682, 641.427368)
         wait(0.5)
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2528.72412, -286.102051, 652.032898, 0.159283742, 5.73835024e-08, -0.987232864, 2.34492461e-08, 1, 6.19089917e-08, 0.987232864, -3.30109629e-08, 0.159283742)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2528.72412, -286.102051, 652.032898)
         wait(0.5)
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1153.32678, -36.3353424, -1777.61316, -0.167363107, -6.30863113e-08, 0.985895336, -6.43840181e-08, 1, 5.30591855e-08, -0.985895336, -5.45957555e-08, -0.167363107)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1153.32678, -36.3353424, -1777.61316)
         wait(0.5)
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2877.94214, -355.445251, 493.302155, -0.999688983, -5.28186419e-08, 0.0249376334, -5.21841557e-08, 1, 2.60938009e-08, -0.0249376334, 2.47843364e-08, -0.999688983)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2877.94214, -355.445251, 493.302155)
         wait(0.5)
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-3779.26147, -86.5126648, -276.645782, 0.00576917036, -3.70154822e-08, 0.99998337, -6.99693388e-08, 1, 3.74197704e-08, -0.99998337, -7.01840577e-08, 0.00576917036)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-3779.26147, -86.5126648, -276.645782)
         wait(0.5)
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1909.87915, -336.598755, 647.338074, 0.144476533, -4.40999379e-08, -0.989508212, 9.42612601e-08, 1, -3.08045927e-08, 0.989508212, -8.882175e-08, 0.144476533)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1909.87915, -336.598755, 647.338074)
         wait(0.5)
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2691.04956, -288.183044, 644.911987, 0.818975925, 3.98657285e-08, -0.573827863, -4.02645206e-08, 1, 1.20071775e-08, 0.573827863, 1.32713156e-08, 0.818975925)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2691.04956, -288.183044, 644.911987)
         wait(1)
         local Event = game:GetService("ReplicatedStorage").Events.LoadPlayer
         Event:FireServer()
     end)
 
     local Button = Section:AddButton("5K Text Obby", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-7483.5249, -179.140289, 661.924377, 0.400490314, 6.38999467e-08, 0.916301012, -1.18897852e-07, 1, -1.77698265e-08, -0.916301012, -1.01829578e-07, 0.400490314)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-7483.5249, -179.140289, 661.924377)
     end)
 
     local Button = Section:AddButton("25K Text Obby", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2227.12183, -327.681061, 629.548889, 0.6642524, -7.21874613e-08, -0.747508347, -9.74397807e-09, 1, -1.05229482e-07, 0.747508347, 7.71826407e-08, 0.6642524)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2227.12183, -327.681061, 629.548889)
     end)
 
     local Button = Section:AddButton("100K Text Obby", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2073.04858, -305.592682, 641.427368, 0.748029649, -3.59982799e-08, -0.663665354, 3.16613402e-08, 1, -1.85555251e-08, 0.663665354, -7.13245152e-09, 0.748029649)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2073.04858, -305.592682, 641.427368)
     end)
 
     local Button = Section:AddButton("1M Text Obby", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2528.72412, -286.102051, 652.032898, 0.159283742, 5.73835024e-08, -0.987232864, 2.34492461e-08, 1, 6.19089917e-08, 0.987232864, -3.30109629e-08, 0.159283742)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2528.72412, -286.102051, 652.032898)
     end)
 
     local Button = Section:AddButton("100M Text Obby", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1153.32678, -36.3353424, -1777.61316, -0.167363107, -6.30863113e-08, 0.985895336, -6.43840181e-08, 1, 5.30591855e-08, -0.985895336, -5.45957555e-08, -0.167363107)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1153.32678, -36.3353424, -1777.61316)
     end)
 
     local Button = Section:AddButton("500M Text Obby", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2877.94214, -355.445251, 493.302155, -0.999688983, -5.28186419e-08, 0.0249376334, -5.21841557e-08, 1, 2.60938009e-08, -0.0249376334, 2.47843364e-08, -0.999688983)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2877.94214, -355.445251, 493.302155)
     end)
 
     local Button = Section:AddButton("1B Text Obby", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-3779.26147, -86.5126648, -276.645782, 0.00576917036, -3.70154822e-08, 0.99998337, -6.99693388e-08, 1, 3.74197704e-08, -0.99998337, -7.01840577e-08, 0.00576917036)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-3779.26147, -86.5126648, -276.645782)
     end)
 
     local Button = Section:AddButton("10B Text Obby", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1909.87915, -336.598755, 647.338074, 0.144476533, -4.40999379e-08, -0.989508212, 9.42612601e-08, 1, -3.08045927e-08, 0.989508212, -8.882175e-08, 0.144476533)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-1909.87915, -336.598755, 647.338074)
     end)
 
     local Button = Section:AddButton("100B Text Obby", function()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2691.04956, -286.183044, 644.911987, 0.818975925, 3.98657285e-08, -0.573827863, -4.02645206e-08, 1, 1.20071775e-08, 0.573827863, 1.32713156e-08, 0.818975925)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2691.04956, -286.183044, 644.911987)
     end)
 
     local Section = Tab:AddSection("Space Obbies")
 
-    local Button = Section:AddButton("Unlock + Complete All Space Obbies- Coming Soon", function()
+    local Button = Section:AddButton("Unlock + Complete All Space Obbies", function()
+        local args = {
+            [1] = "163245",
+            [2] = workspace.Portals.Portal1
+        }
         
+        game:GetService("ReplicatedStorage").Events.VerifyCode:FireServer(unpack(args))
+        wait(0.25)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1426.3479, -162.761566, -2331.72461)
+        wait(2)
+    
+        local args = {
+            [1] = "413256",
+            [2] = workspace.Portals.Portal2
+        }
+        
+        game:GetService("ReplicatedStorage").Events.VerifyCode:FireServer(unpack(args))
+        wait(0.25)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1436.33643, -141.497742, -2080.61475)
+        wait(2)
+
+        local args = {
+            [1] = "615423",
+            [2] = workspace.Portals.Portal3
+        }
+        
+        game:GetService("ReplicatedStorage").Events.VerifyCode:FireServer(unpack(args))
+        wait(0.25)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1385.00891, -143.762024, -1810.20215)
     end)
 
     local Label = Section:AddLabel("Moon")
+    local Button = Section:AddButton("Unlock + Complete Moon Obby", function()
+        local args = {
+            [1] = "163245",
+            [2] = workspace.Portals.Portal1
+        }
+        
+        game:GetService("ReplicatedStorage").Events.VerifyCode:FireServer(unpack(args))
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1426.3479, -162.761566, -2331.72461)
+    end)
 
     local Label = Section:AddLabel("Mars")
-
+    local Button = Section:AddButton("Unlock + Complete Mars Obby", function()
+        local args = {
+            [1] = "413256",
+            [2] = workspace.Portals.Portal2
+        }
+        
+        game:GetService("ReplicatedStorage").Events.VerifyCode:FireServer(unpack(args))
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1436.33643, -141.497742, -2080.61475)
+    end)
+    
     local Label = Section:AddLabel("Star")
+    local Button = Section:AddButton("Unlock + Complete Star Obby", function()
+        local args = {
+            [1] = "615423",
+            [2] = workspace.Portals.Portal3
+        }
+            
+        game:GetService("ReplicatedStorage").Events.VerifyCode:FireServer(unpack(args))
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1385.00891, -143.762024, -1810.20215)
+    end)
+    
 
 --Settings Tab
     local Tab = Window:AddTab("Settings")
