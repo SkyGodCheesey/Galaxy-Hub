@@ -1,4 +1,4 @@
-rconsolename("Galaxy Hub | Westbound)
+rconsolename("Galaxy Hub | Westbound")
 rconsoleprint("[1/3] Validating User \n")
 wait(2)
 rconsoleprint("[2/3] Loading Galaxy \n")
